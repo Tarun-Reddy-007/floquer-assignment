@@ -6,7 +6,6 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-# Load the trained model and tokenizer
 model = GPT2LMHeadModel.from_pretrained('./salary-gpt2')
 tokenizer = GPT2Tokenizer.from_pretrained('./salary-gpt2')
 
@@ -14,10 +13,8 @@ tokenizer = GPT2Tokenizer.from_pretrained('./salary-gpt2')
 def chat():
     user_input = request.json.get('message')
     
-    # Encode the input
     input_ids = tokenizer.encode(user_input, return_tensors='pt')
 
-    # Generate a response
     with torch.no_grad():
         output = model.generate(
             input_ids,
@@ -30,10 +27,8 @@ def chat():
             top_p=0.95        # Nucleus sampling
         )
     
-    # Decode the output
     response = tokenizer.decode(output[0], skip_special_tokens=True)
 
-    # Return the response
     return jsonify({'reply': response})
 
 if __name__ == '__main__':
