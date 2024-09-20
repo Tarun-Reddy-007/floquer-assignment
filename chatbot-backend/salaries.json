@@ -1,0 +1,4034 @@
+[
+    {
+        "prompt": "What is the average salary for the year 2024?",
+        "response": "The average salary in 2024 is $150,643.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the year 2024?",
+        "response": "The maximum salary in 2024 is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the year 2024?",
+        "response": "The minimum salary in 2024 is $16,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the year 2022?",
+        "response": "The average salary in 2022 is $134,349.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the year 2022?",
+        "response": "The maximum salary in 2022 is $430,967.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the year 2022?",
+        "response": "The minimum salary in 2022 is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the year 2023?",
+        "response": "The average salary in 2023 is $153,732.66."
+    },
+    {
+        "prompt": "What is the maximum salary for the year 2023?",
+        "response": "The maximum salary in 2023 is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the year 2023?",
+        "response": "The minimum salary in 2023 is $15,680.00."
+    },
+    {
+        "prompt": "What is the average salary for the year 2020?",
+        "response": "The average salary in 2020 is $102,250.87."
+    },
+    {
+        "prompt": "What is the maximum salary for the year 2020?",
+        "response": "The maximum salary in 2020 is $450,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the year 2020?",
+        "response": "The minimum salary in 2020 is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the year 2021?",
+        "response": "The average salary in 2021 is $99,922.07."
+    },
+    {
+        "prompt": "What is the maximum salary for the year 2021?",
+        "response": "The maximum salary in 2021 is $423,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the year 2021?",
+        "response": "The minimum salary in 2021 is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the experience level MI?",
+        "response": "The average salary for MI is $125,846.14."
+    },
+    {
+        "prompt": "What is the maximum salary for the experience level MI?",
+        "response": "The maximum salary for MI is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the experience level MI?",
+        "response": "The minimum salary for MI is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the experience level SE?",
+        "response": "The average salary for SE is $163,693.86."
+    },
+    {
+        "prompt": "What is the maximum salary for the experience level SE?",
+        "response": "The maximum salary for SE is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the experience level SE?",
+        "response": "The minimum salary for SE is $15,809.00."
+    },
+    {
+        "prompt": "What is the average salary for the experience level EN?",
+        "response": "The average salary for EN is $92,362.73."
+    },
+    {
+        "prompt": "What is the maximum salary for the experience level EN?",
+        "response": "The maximum salary for EN is $774,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the experience level EN?",
+        "response": "The minimum salary for EN is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the experience level EX?",
+        "response": "The average salary for EX is $195,345.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the experience level EX?",
+        "response": "The maximum salary for EX is $465,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the experience level EX?",
+        "response": "The minimum salary for EX is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employment type FT?",
+        "response": "The average salary for FT is $150,015.35."
+    },
+    {
+        "prompt": "What is the maximum salary for the employment type FT?",
+        "response": "The maximum salary for FT is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employment type FT?",
+        "response": "The minimum salary for FT is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employment type CT?",
+        "response": "The average salary for CT is $112,578.39."
+    },
+    {
+        "prompt": "What is the maximum salary for the employment type CT?",
+        "response": "The maximum salary for CT is $416,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employment type CT?",
+        "response": "The minimum salary for CT is $25,500.00."
+    },
+    {
+        "prompt": "What is the average salary for the employment type PT?",
+        "response": "The average salary for PT is $83,750.16."
+    },
+    {
+        "prompt": "What is the maximum salary for the employment type PT?",
+        "response": "The maximum salary for PT is $291,340.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employment type PT?",
+        "response": "The minimum salary for PT is $15,966.00."
+    },
+    {
+        "prompt": "What is the average salary for the employment type FL?",
+        "response": "The average salary for FL is $49,220.86."
+    },
+    {
+        "prompt": "What is the maximum salary for the employment type FL?",
+        "response": "The maximum salary for FL is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employment type FL?",
+        "response": "The minimum salary for FL is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AU?",
+        "response": "The average salary for AU is $130,023.61."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AU?",
+        "response": "The maximum salary for AU is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AU?",
+        "response": "The minimum salary for AU is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence US?",
+        "response": "The average salary for US is $157,220.59."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence US?",
+        "response": "The maximum salary for US is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence US?",
+        "response": "The minimum salary for US is $24,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence GB?",
+        "response": "The average salary for GB is $93,515.37."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence GB?",
+        "response": "The maximum salary for GB is $430,967.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence GB?",
+        "response": "The minimum salary for GB is $28,299.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CA?",
+        "response": "The average salary for CA is $146,334.46."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CA?",
+        "response": "The maximum salary for CA is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CA?",
+        "response": "The minimum salary for CA is $40,747.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence NL?",
+        "response": "The average salary for NL is $76,268.44."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence NL?",
+        "response": "The maximum salary for NL is $134,960.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence NL?",
+        "response": "The minimum salary for NL is $32,390.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence LT?",
+        "response": "The average salary for LT is $61,942.35."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence LT?",
+        "response": "The maximum salary for LT is $125,333.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence LT?",
+        "response": "The minimum salary for LT is $28,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence DK?",
+        "response": "The average salary for DK is $52,806.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence DK?",
+        "response": "The maximum salary for DK is $117,647.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence DK?",
+        "response": "The minimum salary for DK is $19,073.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence FR?",
+        "response": "The average salary for FR is $87,811.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence FR?",
+        "response": "The maximum salary for FR is $323,905.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence FR?",
+        "response": "The minimum salary for FR is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence ZA?",
+        "response": "The average salary for ZA is $53,488.68."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence ZA?",
+        "response": "The maximum salary for ZA is $124,935.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence ZA?",
+        "response": "The minimum salary for ZA is $32,177.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence NZ?",
+        "response": "The average salary for NZ is $146,761.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence NZ?",
+        "response": "The maximum salary for NZ is $205,670.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence NZ?",
+        "response": "The minimum salary for NZ is $124,233.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AR?",
+        "response": "The average salary for AR is $58,461.54."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AR?",
+        "response": "The maximum salary for AR is $92,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AR?",
+        "response": "The minimum salary for AR is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence ES?",
+        "response": "The average salary for ES is $58,171.82."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence ES?",
+        "response": "The maximum salary for ES is $253,750.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence ES?",
+        "response": "The minimum salary for ES is $21,593.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence KE?",
+        "response": "The average salary for KE is $50,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence KE?",
+        "response": "The maximum salary for KE is $80,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence KE?",
+        "response": "The minimum salary for KE is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence LV?",
+        "response": "The average salary for LV is $57,059.69."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence LV?",
+        "response": "The maximum salary for LV is $86,666.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence LV?",
+        "response": "The minimum salary for LV is $34,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence GE?",
+        "response": "The average salary for GE is $53,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence GE?",
+        "response": "The maximum salary for GE is $57,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence GE?",
+        "response": "The minimum salary for GE is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IN?",
+        "response": "The average salary for IN is $47,289.96."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IN?",
+        "response": "The maximum salary for IN is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IN?",
+        "response": "The minimum salary for IN is $15,809.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence DE?",
+        "response": "The average salary for DE is $99,150.35."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence DE?",
+        "response": "The maximum salary for DE is $275,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence DE?",
+        "response": "The minimum salary for DE is $15,966.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IL?",
+        "response": "The average salary for IL is $262,515.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IL?",
+        "response": "The maximum salary for IL is $417,937.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IL?",
+        "response": "The minimum salary for IL is $107,093.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence FI?",
+        "response": "The average salary for FI is $64,917.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence FI?",
+        "response": "The maximum salary for FI is $77,777.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence FI?",
+        "response": "The minimum salary for FI is $46,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AT?",
+        "response": "The average salary for AT is $65,778.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AT?",
+        "response": "The maximum salary for AT is $91,237.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AT?",
+        "response": "The minimum salary for AT is $47,777.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence HR?",
+        "response": "The average salary for HR is $84,751.83."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence HR?",
+        "response": "The maximum salary for HR is $180,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence HR?",
+        "response": "The minimum salary for HR is $35,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence BR?",
+        "response": "The average salary for BR is $61,061.62."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence BR?",
+        "response": "The maximum salary for BR is $160,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence BR?",
+        "response": "The minimum salary for BR is $18,907.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CH?",
+        "response": "The average salary for CH is $137,187.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CH?",
+        "response": "The maximum salary for CH is $323,295.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CH?",
+        "response": "The minimum salary for CH is $56,536.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AE?",
+        "response": "The average salary for AE is $86,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AE?",
+        "response": "The maximum salary for AE is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AE?",
+        "response": "The minimum salary for AE is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence GR?",
+        "response": "The average salary for GR is $53,866.24."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence GR?",
+        "response": "The maximum salary for GR is $88,654.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence GR?",
+        "response": "The minimum salary for GR is $19,434.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PL?",
+        "response": "The average salary for PL is $78,104.27."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PL?",
+        "response": "The maximum salary for PL is $209,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PL?",
+        "response": "The minimum salary for PL is $18,160.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence SA?",
+        "response": "The average salary for SA is $139,999.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence SA?",
+        "response": "The maximum salary for SA is $179,998.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence SA?",
+        "response": "The minimum salary for SA is $90,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence UA?",
+        "response": "The average salary for UA is $98,272.73."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence UA?",
+        "response": "The maximum salary for UA is $240,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence UA?",
+        "response": "The minimum salary for UA is $25,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence EG?",
+        "response": "The average salary for EG is $135,807.14."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence EG?",
+        "response": "The maximum salary for EG is $242,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence EG?",
+        "response": "The minimum salary for EG is $22,800.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PH?",
+        "response": "The average salary for PH is $53,667.56."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PH?",
+        "response": "The maximum salary for PH is $107,968.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PH?",
+        "response": "The minimum salary for PH is $15,680.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence TR?",
+        "response": "The average salary for TR is $34,186.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence TR?",
+        "response": "The maximum salary for TR is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence TR?",
+        "response": "The minimum salary for TR is $18,381.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence OM?",
+        "response": "The average salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence OM?",
+        "response": "The maximum salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence OM?",
+        "response": "The minimum salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence MX?",
+        "response": "The average salary for MX is $134,186.36."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence MX?",
+        "response": "The maximum salary for MX is $774,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence MX?",
+        "response": "The minimum salary for MX is $17,598.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PT?",
+        "response": "The average salary for PT is $53,920.97."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PT?",
+        "response": "The maximum salary for PT is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PT?",
+        "response": "The minimum salary for PT is $21,013.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence BA?",
+        "response": "The average salary for BA is $75,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence BA?",
+        "response": "The maximum salary for BA is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence BA?",
+        "response": "The minimum salary for BA is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IT?",
+        "response": "The average salary for IT is $54,867.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IT?",
+        "response": "The maximum salary for IT is $153,667.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IT?",
+        "response": "The minimum salary for IT is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IE?",
+        "response": "The average salary for IE is $104,694.92."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IE?",
+        "response": "The maximum salary for IE is $172,309.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IE?",
+        "response": "The minimum salary for IE is $68,293.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence EE?",
+        "response": "The average salary for EE is $43,941.82."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence EE?",
+        "response": "The maximum salary for EE is $57,007.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence EE?",
+        "response": "The minimum salary for EE is $31,520.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence MT?",
+        "response": "The average salary for MT is $50,423.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence MT?",
+        "response": "The maximum salary for MT is $78,800.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence MT?",
+        "response": "The minimum salary for MT is $28,369.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence LB?",
+        "response": "The average salary for LB is $71,750.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence LB?",
+        "response": "The maximum salary for LB is $85,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence LB?",
+        "response": "The minimum salary for LB is $58,500.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence RO?",
+        "response": "The average salary for RO is $44,338.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence RO?",
+        "response": "The maximum salary for RO is $76,833.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence RO?",
+        "response": "The minimum salary for RO is $26,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence HU?",
+        "response": "The average salary for HU is $33,169.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence HU?",
+        "response": "The maximum salary for HU is $43,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence HU?",
+        "response": "The minimum salary for HU is $17,684.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence VN?",
+        "response": "The average salary for VN is $56,733.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence VN?",
+        "response": "The maximum salary for VN is $84,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence VN?",
+        "response": "The minimum salary for VN is $38,400.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence NG?",
+        "response": "The average salary for NG is $52,416.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence NG?",
+        "response": "The maximum salary for NG is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence NG?",
+        "response": "The minimum salary for NG is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CZ?",
+        "response": "The average salary for CZ is $59,999.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CZ?",
+        "response": "The maximum salary for CZ is $69,999.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CZ?",
+        "response": "The minimum salary for CZ is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PK?",
+        "response": "The average salary for PK is $38,536.17."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PK?",
+        "response": "The maximum salary for PK is $55,475.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PK?",
+        "response": "The minimum salary for PK is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence UG?",
+        "response": "The average salary for UG is $36,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence UG?",
+        "response": "The maximum salary for UG is $36,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence UG?",
+        "response": "The minimum salary for UG is $36,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CO?",
+        "response": "The average salary for CO is $79,115.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CO?",
+        "response": "The maximum salary for CO is $131,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CO?",
+        "response": "The minimum salary for CO is $21,844.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence SI?",
+        "response": "The average salary for SI is $56,186.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence SI?",
+        "response": "The maximum salary for SI is $102,839.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence SI?",
+        "response": "The minimum salary for SI is $24,823.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence MU?",
+        "response": "The average salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence MU?",
+        "response": "The maximum salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence MU?",
+        "response": "The minimum salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AM?",
+        "response": "The average salary for AM is $33,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AM?",
+        "response": "The maximum salary for AM is $50,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AM?",
+        "response": "The minimum salary for AM is $17,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence TH?",
+        "response": "The average salary for TH is $32,228.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence TH?",
+        "response": "The maximum salary for TH is $60,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence TH?",
+        "response": "The minimum salary for TH is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence KR?",
+        "response": "The average salary for KR is $47,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence KR?",
+        "response": "The maximum salary for KR is $54,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence KR?",
+        "response": "The minimum salary for KR is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence QA?",
+        "response": "The average salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence QA?",
+        "response": "The maximum salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence QA?",
+        "response": "The minimum salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence RU?",
+        "response": "The average salary for RU is $79,242.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence RU?",
+        "response": "The maximum salary for RU is $230,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence RU?",
+        "response": "The minimum salary for RU is $16,455.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence TN?",
+        "response": "The average salary for TN is $90,234.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence TN?",
+        "response": "The maximum salary for TN is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence TN?",
+        "response": "The minimum salary for TN is $30,469.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence GH?",
+        "response": "The average salary for GH is $34,250.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence GH?",
+        "response": "The maximum salary for GH is $56,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence GH?",
+        "response": "The minimum salary for GH is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence BE?",
+        "response": "The average salary for BE is $95,565.83."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence BE?",
+        "response": "The maximum salary for BE is $215,936.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence BE?",
+        "response": "The minimum salary for BE is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AD?",
+        "response": "The average salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AD?",
+        "response": "The maximum salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AD?",
+        "response": "The minimum salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence EC?",
+        "response": "The average salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence EC?",
+        "response": "The maximum salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence EC?",
+        "response": "The minimum salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PE?",
+        "response": "The average salary for PE is $27,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PE?",
+        "response": "The maximum salary for PE is $27,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PE?",
+        "response": "The minimum salary for PE is $27,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence MD?",
+        "response": "The average salary for MD is $66,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence MD?",
+        "response": "The maximum salary for MD is $115,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence MD?",
+        "response": "The minimum salary for MD is $18,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence NO?",
+        "response": "The average salary for NO is $88,462.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence NO?",
+        "response": "The maximum salary for NO is $100,416.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence NO?",
+        "response": "The minimum salary for NO is $76,508.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence UZ?",
+        "response": "The average salary for UZ is $82,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence UZ?",
+        "response": "The maximum salary for UZ is $106,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence UZ?",
+        "response": "The minimum salary for UZ is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence JP?",
+        "response": "The average salary for JP is $95,821.62."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence JP?",
+        "response": "The maximum salary for JP is $260,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence JP?",
+        "response": "The minimum salary for JP is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence HK?",
+        "response": "The average salary for HK is $65,540.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence HK?",
+        "response": "The maximum salary for HK is $66,022.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence HK?",
+        "response": "The minimum salary for HK is $65,058.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CF?",
+        "response": "The average salary for CF is $49,216.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CF?",
+        "response": "The maximum salary for CF is $55,368.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CF?",
+        "response": "The minimum salary for CF is $43,064.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence SG?",
+        "response": "The average salary for SG is $83,092.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence SG?",
+        "response": "The maximum salary for SG is $119,059.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence SG?",
+        "response": "The minimum salary for SG is $65,257.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence SE?",
+        "response": "The average salary for SE is $105,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence SE?",
+        "response": "The maximum salary for SE is $130,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence SE?",
+        "response": "The minimum salary for SE is $80,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence KW?",
+        "response": "The average salary for KW is $50,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence KW?",
+        "response": "The maximum salary for KW is $50,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence KW?",
+        "response": "The minimum salary for KW is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CY?",
+        "response": "The average salary for CY is $63,701.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CY?",
+        "response": "The maximum salary for CY is $63,701.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CY?",
+        "response": "The minimum salary for CY is $63,701.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IR?",
+        "response": "The average salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IR?",
+        "response": "The maximum salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IR?",
+        "response": "The minimum salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence AS?",
+        "response": "The average salary for AS is $45,555.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence AS?",
+        "response": "The maximum salary for AS is $45,555.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence AS?",
+        "response": "The minimum salary for AS is $45,555.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CN?",
+        "response": "The average salary for CN is $125,404.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CN?",
+        "response": "The maximum salary for CN is $125,404.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CN?",
+        "response": "The minimum salary for CN is $125,404.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CR?",
+        "response": "The average salary for CR is $20,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CR?",
+        "response": "The maximum salary for CR is $20,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CR?",
+        "response": "The minimum salary for CR is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence CL?",
+        "response": "The average salary for CL is $72,519.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence CL?",
+        "response": "The maximum salary for CL is $105,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence CL?",
+        "response": "The minimum salary for CL is $40,038.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence PR?",
+        "response": "The average salary for PR is $166,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence PR?",
+        "response": "The maximum salary for PR is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence PR?",
+        "response": "The minimum salary for PR is $135,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence BO?",
+        "response": "The average salary for BO is $75,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence BO?",
+        "response": "The maximum salary for BO is $75,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence BO?",
+        "response": "The minimum salary for BO is $75,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence DO?",
+        "response": "The average salary for DO is $110,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence DO?",
+        "response": "The maximum salary for DO is $110,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence DO?",
+        "response": "The minimum salary for DO is $110,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence ID?",
+        "response": "The average salary for ID is $15,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence ID?",
+        "response": "The maximum salary for ID is $15,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence ID?",
+        "response": "The minimum salary for ID is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence MY?",
+        "response": "The average salary for MY is $200,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence MY?",
+        "response": "The maximum salary for MY is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence MY?",
+        "response": "The minimum salary for MY is $200,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence HN?",
+        "response": "The average salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence HN?",
+        "response": "The maximum salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence HN?",
+        "response": "The minimum salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence DZ?",
+        "response": "The average salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence DZ?",
+        "response": "The maximum salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence DZ?",
+        "response": "The minimum salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence IQ?",
+        "response": "The average salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence IQ?",
+        "response": "The maximum salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence IQ?",
+        "response": "The minimum salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence BG?",
+        "response": "The average salary for BG is $80,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence BG?",
+        "response": "The maximum salary for BG is $80,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence BG?",
+        "response": "The minimum salary for BG is $80,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence JE?",
+        "response": "The average salary for JE is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence JE?",
+        "response": "The maximum salary for JE is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence JE?",
+        "response": "The minimum salary for JE is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence RS?",
+        "response": "The average salary for RS is $25,532.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence RS?",
+        "response": "The maximum salary for RS is $25,532.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence RS?",
+        "response": "The minimum salary for RS is $25,532.00."
+    },
+    {
+        "prompt": "What is the average salary for the employee_residence LU?",
+        "response": "The average salary for LU is $59,102.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the employee_residence LU?",
+        "response": "The maximum salary for LU is $59,102.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the employee_residence LU?",
+        "response": "The minimum salary for LU is $59,102.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AU?",
+        "response": "The average salary for AU is $127,800.70."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AU?",
+        "response": "The maximum salary for AU is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AU?",
+        "response": "The minimum salary for AU is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location US?",
+        "response": "The average salary for US is $156,954.89."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location US?",
+        "response": "The maximum salary for US is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location US?",
+        "response": "The minimum salary for US is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location GB?",
+        "response": "The average salary for GB is $93,228.49."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location GB?",
+        "response": "The maximum salary for GB is $430,967.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location GB?",
+        "response": "The minimum salary for GB is $26,992.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CA?",
+        "response": "The average salary for CA is $145,918.10."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CA?",
+        "response": "The maximum salary for CA is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CA?",
+        "response": "The minimum salary for CA is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location NL?",
+        "response": "The average salary for NL is $75,759.94."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location NL?",
+        "response": "The maximum salary for NL is $134,960.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location NL?",
+        "response": "The minimum salary for NL is $25,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location LT?",
+        "response": "The average salary for LT is $61,942.35."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location LT?",
+        "response": "The maximum salary for LT is $125,333.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location LT?",
+        "response": "The minimum salary for LT is $28,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location DK?",
+        "response": "The average salary for DK is $60,776.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location DK?",
+        "response": "The maximum salary for DK is $117,647.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location DK?",
+        "response": "The minimum salary for DK is $19,073.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location FR?",
+        "response": "The average salary for FR is $87,970.02."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location FR?",
+        "response": "The maximum salary for FR is $244,400.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location FR?",
+        "response": "The minimum salary for FR is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location ZA?",
+        "response": "The average salary for ZA is $53,488.68."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location ZA?",
+        "response": "The maximum salary for ZA is $124,935.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location ZA?",
+        "response": "The minimum salary for ZA is $32,177.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location NZ?",
+        "response": "The average salary for NZ is $146,761.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location NZ?",
+        "response": "The maximum salary for NZ is $205,670.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location NZ?",
+        "response": "The minimum salary for NZ is $124,233.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AR?",
+        "response": "The average salary for AR is $62,444.44."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AR?",
+        "response": "The maximum salary for AR is $92,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AR?",
+        "response": "The minimum salary for AR is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location ES?",
+        "response": "The average salary for ES is $56,342.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location ES?",
+        "response": "The maximum salary for ES is $253,750.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location ES?",
+        "response": "The minimum salary for ES is $21,593.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location KE?",
+        "response": "The average salary for KE is $50,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location KE?",
+        "response": "The maximum salary for KE is $80,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location KE?",
+        "response": "The minimum salary for KE is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location LV?",
+        "response": "The average salary for LV is $57,059.69."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location LV?",
+        "response": "The maximum salary for LV is $86,666.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location LV?",
+        "response": "The minimum salary for LV is $34,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IN?",
+        "response": "The average salary for IN is $42,726.40."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IN?",
+        "response": "The maximum salary for IN is $172,700.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IN?",
+        "response": "The minimum salary for IN is $15,809.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location DE?",
+        "response": "The average salary for DE is $94,098.51."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location DE?",
+        "response": "The maximum salary for DE is $275,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location DE?",
+        "response": "The minimum salary for DE is $15,966.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IL?",
+        "response": "The average salary for IL is $189,772.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IL?",
+        "response": "The maximum salary for IL is $417,937.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IL?",
+        "response": "The minimum salary for IL is $107,093.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location FI?",
+        "response": "The average salary for FI is $65,370.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location FI?",
+        "response": "The maximum salary for FI is $77,777.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location FI?",
+        "response": "The minimum salary for FI is $46,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AT?",
+        "response": "The average salary for AT is $65,862.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AT?",
+        "response": "The maximum salary for AT is $91,237.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AT?",
+        "response": "The minimum salary for AT is $47,777.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location BR?",
+        "response": "The average salary for BR is $54,794.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location BR?",
+        "response": "The maximum salary for BR is $115,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location BR?",
+        "response": "The minimum salary for BR is $18,907.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CH?",
+        "response": "The average salary for CH is $124,646.89."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CH?",
+        "response": "The maximum salary for CH is $323,295.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CH?",
+        "response": "The minimum salary for CH is $24,322.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AE?",
+        "response": "The average salary for AE is $86,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AE?",
+        "response": "The maximum salary for AE is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AE?",
+        "response": "The minimum salary for AE is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location PL?",
+        "response": "The average salary for PL is $83,083.36."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location PL?",
+        "response": "The maximum salary for PL is $209,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location PL?",
+        "response": "The minimum salary for PL is $28,476.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location SA?",
+        "response": "The average salary for SA is $139,999.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location SA?",
+        "response": "The maximum salary for SA is $179,998.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location SA?",
+        "response": "The minimum salary for SA is $90,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location UA?",
+        "response": "The average salary for UA is $105,600.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location UA?",
+        "response": "The maximum salary for UA is $240,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location UA?",
+        "response": "The minimum salary for UA is $48,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location EG?",
+        "response": "The average salary for EG is $140,869.23."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location EG?",
+        "response": "The maximum salary for EG is $242,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location EG?",
+        "response": "The minimum salary for EG is $22,800.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location PH?",
+        "response": "The average salary for PH is $49,046.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location PH?",
+        "response": "The maximum salary for PH is $95,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location PH?",
+        "response": "The minimum salary for PH is $15,680.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location TR?",
+        "response": "The average salary for TR is $23,094.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location TR?",
+        "response": "The maximum salary for TR is $28,016.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location TR?",
+        "response": "The minimum salary for TR is $18,381.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location OM?",
+        "response": "The average salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location OM?",
+        "response": "The maximum salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location OM?",
+        "response": "The minimum salary for OM is $46,848.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location MX?",
+        "response": "The average salary for MX is $129,240.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location MX?",
+        "response": "The maximum salary for MX is $774,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location MX?",
+        "response": "The minimum salary for MX is $17,598.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location PT?",
+        "response": "The average salary for PT is $50,253.89."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location PT?",
+        "response": "The maximum salary for PT is $105,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location PT?",
+        "response": "The minimum salary for PT is $21,013.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location BA?",
+        "response": "The average salary for BA is $75,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location BA?",
+        "response": "The maximum salary for BA is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location BA?",
+        "response": "The minimum salary for BA is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IT?",
+        "response": "The average salary for IT is $49,600.43."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IT?",
+        "response": "The maximum salary for IT is $75,577.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IT?",
+        "response": "The minimum salary for IT is $21,669.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AS?",
+        "response": "The average salary for AS is $31,684.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AS?",
+        "response": "The maximum salary for AS is $50,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AS?",
+        "response": "The minimum salary for AS is $18,053.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IE?",
+        "response": "The average salary for IE is $104,694.92."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IE?",
+        "response": "The maximum salary for IE is $172,309.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IE?",
+        "response": "The minimum salary for IE is $68,293.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location EE?",
+        "response": "The average salary for EE is $45,588.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location EE?",
+        "response": "The maximum salary for EE is $63,701.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location EE?",
+        "response": "The minimum salary for EE is $31,520.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location MT?",
+        "response": "The average salary for MT is $50,423.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location MT?",
+        "response": "The maximum salary for MT is $78,800.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location MT?",
+        "response": "The minimum salary for MT is $28,369.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location HU?",
+        "response": "The average salary for HU is $39,938.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location HU?",
+        "response": "The maximum salary for HU is $63,333.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location HU?",
+        "response": "The minimum salary for HU is $17,684.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location LB?",
+        "response": "The average salary for LB is $71,750.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location LB?",
+        "response": "The maximum salary for LB is $85,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location LB?",
+        "response": "The minimum salary for LB is $58,500.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location RO?",
+        "response": "The average salary for RO is $44,713.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location RO?",
+        "response": "The maximum salary for RO is $60,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location RO?",
+        "response": "The minimum salary for RO is $26,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location VN?",
+        "response": "The average salary for VN is $63,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location VN?",
+        "response": "The maximum salary for VN is $84,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location VN?",
+        "response": "The minimum salary for VN is $48,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location NG?",
+        "response": "The average salary for NG is $60,444.44."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location NG?",
+        "response": "The maximum salary for NG is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location NG?",
+        "response": "The minimum salary for NG is $18,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location LU?",
+        "response": "The average salary for LU is $47,609.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location LU?",
+        "response": "The maximum salary for LU is $62,726.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location LU?",
+        "response": "The minimum salary for LU is $21,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location GI?",
+        "response": "The average salary for GI is $79,976.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location GI?",
+        "response": "The maximum salary for GI is $79,976.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location GI?",
+        "response": "The minimum salary for GI is $79,976.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CO?",
+        "response": "The average salary for CO is $79,115.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CO?",
+        "response": "The maximum salary for CO is $131,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CO?",
+        "response": "The minimum salary for CO is $21,844.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location SI?",
+        "response": "The average salary for SI is $56,186.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location SI?",
+        "response": "The maximum salary for SI is $102,839.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location SI?",
+        "response": "The minimum salary for SI is $24,823.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location GR?",
+        "response": "The average salary for GR is $52,260.86."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location GR?",
+        "response": "The maximum salary for GR is $84,053.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location GR?",
+        "response": "The minimum salary for GR is $19,434.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location MU?",
+        "response": "The average salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location MU?",
+        "response": "The maximum salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location MU?",
+        "response": "The minimum salary for MU is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location RU?",
+        "response": "The average salary for RU is $78,207.86."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location RU?",
+        "response": "The maximum salary for RU is $230,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location RU?",
+        "response": "The minimum salary for RU is $16,455.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location KR?",
+        "response": "The average salary for KR is $47,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location KR?",
+        "response": "The maximum salary for KR is $54,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location KR?",
+        "response": "The minimum salary for KR is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CZ?",
+        "response": "The average salary for CZ is $69,478.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CZ?",
+        "response": "The maximum salary for CZ is $107,968.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CZ?",
+        "response": "The minimum salary for CZ is $30,469.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location QA?",
+        "response": "The average salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location QA?",
+        "response": "The maximum salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location QA?",
+        "response": "The minimum salary for QA is $300,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location GH?",
+        "response": "The average salary for GH is $27,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location GH?",
+        "response": "The maximum salary for GH is $36,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location GH?",
+        "response": "The minimum salary for GH is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location SE?",
+        "response": "The average salary for SE is $98,791.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location SE?",
+        "response": "The maximum salary for SE is $130,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location SE?",
+        "response": "The minimum salary for SE is $80,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AD?",
+        "response": "The average salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AD?",
+        "response": "The maximum salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AD?",
+        "response": "The minimum salary for AD is $50,745.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location EC?",
+        "response": "The average salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location EC?",
+        "response": "The maximum salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location EC?",
+        "response": "The minimum salary for EC is $16,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location NO?",
+        "response": "The average salary for NO is $88,462.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location NO?",
+        "response": "The maximum salary for NO is $100,416.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location NO?",
+        "response": "The minimum salary for NO is $76,508.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location JP?",
+        "response": "The average salary for JP is $110,821.62."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location JP?",
+        "response": "The maximum salary for JP is $260,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location JP?",
+        "response": "The minimum salary for JP is $41,689.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location HK?",
+        "response": "The average salary for HK is $65,058.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location HK?",
+        "response": "The maximum salary for HK is $65,058.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location HK?",
+        "response": "The minimum salary for HK is $65,058.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CF?",
+        "response": "The average salary for CF is $49,216.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CF?",
+        "response": "The maximum salary for CF is $55,368.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CF?",
+        "response": "The minimum salary for CF is $43,064.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location SG?",
+        "response": "The average salary for SG is $62,783.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location SG?",
+        "response": "The maximum salary for SG is $89,294.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location SG?",
+        "response": "The minimum salary for SG is $17,511.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location TH?",
+        "response": "The average salary for TH is $22,971.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location TH?",
+        "response": "The maximum salary for TH is $29,301.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location TH?",
+        "response": "The minimum salary for TH is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location HR?",
+        "response": "The average salary for HR is $76,726.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location HR?",
+        "response": "The maximum salary for HR is $110,736.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location HR?",
+        "response": "The minimum salary for HR is $45,618.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location AM?",
+        "response": "The average salary for AM is $50,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location AM?",
+        "response": "The maximum salary for AM is $50,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location AM?",
+        "response": "The minimum salary for AM is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location PK?",
+        "response": "The average salary for PK is $30,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location PK?",
+        "response": "The maximum salary for PK is $40,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location PK?",
+        "response": "The minimum salary for PK is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IR?",
+        "response": "The average salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IR?",
+        "response": "The maximum salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IR?",
+        "response": "The minimum salary for IR is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location BS?",
+        "response": "The average salary for BS is $45,555.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location BS?",
+        "response": "The maximum salary for BS is $45,555.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location BS?",
+        "response": "The minimum salary for BS is $45,555.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location PR?",
+        "response": "The average salary for PR is $167,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location PR?",
+        "response": "The maximum salary for PR is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location PR?",
+        "response": "The minimum salary for PR is $135,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location BE?",
+        "response": "The average salary for BE is $76,864.75."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location BE?",
+        "response": "The maximum salary for BE is $88,654.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location BE?",
+        "response": "The minimum salary for BE is $52,008.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location ID?",
+        "response": "The average salary for ID is $34,208.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location ID?",
+        "response": "The maximum salary for ID is $53,416.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location ID?",
+        "response": "The minimum salary for ID is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location MY?",
+        "response": "The average salary for MY is $40,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location MY?",
+        "response": "The maximum salary for MY is $40,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location MY?",
+        "response": "The minimum salary for MY is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location HN?",
+        "response": "The average salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location HN?",
+        "response": "The maximum salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location HN?",
+        "response": "The minimum salary for HN is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location DZ?",
+        "response": "The average salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location DZ?",
+        "response": "The maximum salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location DZ?",
+        "response": "The minimum salary for DZ is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location IQ?",
+        "response": "The average salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location IQ?",
+        "response": "The maximum salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location IQ?",
+        "response": "The minimum salary for IQ is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CN?",
+        "response": "The average salary for CN is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CN?",
+        "response": "The maximum salary for CN is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CN?",
+        "response": "The minimum salary for CN is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location CL?",
+        "response": "The average salary for CL is $40,038.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location CL?",
+        "response": "The maximum salary for CL is $40,038.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location CL?",
+        "response": "The minimum salary for CL is $40,038.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_location MD?",
+        "response": "The average salary for MD is $18,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_location MD?",
+        "response": "The maximum salary for MD is $18,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_location MD?",
+        "response": "The minimum salary for MD is $18,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_size S?",
+        "response": "The average salary for S is $86,627.11."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_size S?",
+        "response": "The maximum salary for S is $416,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_size S?",
+        "response": "The minimum salary for S is $15,809.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_size M?",
+        "response": "The average salary for M is $151,095.29."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_size M?",
+        "response": "The maximum salary for M is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_size M?",
+        "response": "The minimum salary for M is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the company_size L?",
+        "response": "The average salary for L is $140,815.94."
+    },
+    {
+        "prompt": "What is the maximum salary for the company_size L?",
+        "response": "The maximum salary for L is $423,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the company_size L?",
+        "response": "The minimum salary for L is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Scientist?",
+        "response": "The average salary for Data Scientist is $154,143.69."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Scientist?",
+        "response": "The maximum salary for Data Scientist is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Scientist?",
+        "response": "The minimum salary for Data Scientist is $16,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Manager?",
+        "response": "The average salary for Data Science Manager is $193,961.32."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Manager?",
+        "response": "The maximum salary for Data Science Manager is $328,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Manager?",
+        "response": "The minimum salary for Data Science Manager is $38,915.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Engineer?",
+        "response": "The average salary for Business Intelligence Engineer is $139,744.65."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Engineer?",
+        "response": "The maximum salary for Business Intelligence Engineer is $259,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Engineer?",
+        "response": "The minimum salary for Business Intelligence Engineer is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Architect?",
+        "response": "The average salary for Data Architect is $161,082.08."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Architect?",
+        "response": "The maximum salary for Data Architect is $400,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Architect?",
+        "response": "The minimum salary for Data Architect is $25,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analyst?",
+        "response": "The average salary for Data Analyst is $107,920.17."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analyst?",
+        "response": "The maximum salary for Data Analyst is $774,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analyst?",
+        "response": "The minimum salary for Data Analyst is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence?",
+        "response": "The average salary for Business Intelligence is $144,810.21."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence?",
+        "response": "The maximum salary for Business Intelligence is $320,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence?",
+        "response": "The minimum salary for Business Intelligence is $65,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title ML Engineer?",
+        "response": "The average salary for ML Engineer is $193,520.97."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title ML Engineer?",
+        "response": "The maximum salary for ML Engineer is $530,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title ML Engineer?",
+        "response": "The minimum salary for ML Engineer is $15,966.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Modeler?",
+        "response": "The average salary for Data Modeler is $130,851.41."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Modeler?",
+        "response": "The maximum salary for Data Modeler is $258,700.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Modeler?",
+        "response": "The minimum salary for Data Modeler is $55,368.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Engineer?",
+        "response": "The average salary for Machine Learning Engineer is $188,639.37."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Engineer?",
+        "response": "The maximum salary for Machine Learning Engineer is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Engineer?",
+        "response": "The minimum salary for Machine Learning Engineer is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Integration Specialist?",
+        "response": "The average salary for Data Integration Specialist is $93,675.35."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Integration Specialist?",
+        "response": "The maximum salary for Data Integration Specialist is $240,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Integration Specialist?",
+        "response": "The minimum salary for Data Integration Specialist is $36,483.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Research Scientist?",
+        "response": "The average salary for Research Scientist is $192,011.02."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Research Scientist?",
+        "response": "The maximum salary for Research Scientist is $720,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Research Scientist?",
+        "response": "The minimum salary for Research Scientist is $23,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Engineer?",
+        "response": "The average salary for Data Engineer is $146,567.13."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Engineer?",
+        "response": "The maximum salary for Data Engineer is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Engineer?",
+        "response": "The minimum salary for Data Engineer is $17,025.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Product Manager?",
+        "response": "The average salary for Data Product Manager is $156,899.44."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Product Manager?",
+        "response": "The maximum salary for Data Product Manager is $250,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Product Manager?",
+        "response": "The minimum salary for Data Product Manager is $75,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Manager?",
+        "response": "The average salary for Data Manager is $108,645.45."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Manager?",
+        "response": "The maximum salary for Data Manager is $233,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Manager?",
+        "response": "The minimum salary for Data Manager is $32,177.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Visualization Specialist?",
+        "response": "The average salary for Data Visualization Specialist is $112,515.21."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Visualization Specialist?",
+        "response": "The maximum salary for Data Visualization Specialist is $185,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Visualization Specialist?",
+        "response": "The minimum salary for Data Visualization Specialist is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science?",
+        "response": "The average salary for Data Science is $162,381.53."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science?",
+        "response": "The maximum salary for Data Science is $381,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science?",
+        "response": "The minimum salary for Data Science is $16,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Specialist?",
+        "response": "The average salary for Data Specialist is $91,182.94."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Specialist?",
+        "response": "The maximum salary for Data Specialist is $224,800.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Specialist?",
+        "response": "The minimum salary for Data Specialist is $38,651.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Lead?",
+        "response": "The average salary for Business Intelligence Lead is $137,379.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Lead?",
+        "response": "The maximum salary for Business Intelligence Lead is $187,415.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Lead?",
+        "response": "The minimum salary for Business Intelligence Lead is $104,800.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Research Analyst?",
+        "response": "The average salary for Research Analyst is $113,149.10."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Research Analyst?",
+        "response": "The maximum salary for Research Analyst is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Research Analyst?",
+        "response": "The minimum salary for Research Analyst is $42,700.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Analyst?",
+        "response": "The average salary for Business Intelligence Analyst is $114,066.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Analyst?",
+        "response": "The maximum salary for Business Intelligence Analyst is $234,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Analyst?",
+        "response": "The minimum salary for Business Intelligence Analyst is $40,603.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Engineer?",
+        "response": "The average salary for AI Engineer is $162,989.94."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Engineer?",
+        "response": "The maximum salary for AI Engineer is $400,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Engineer?",
+        "response": "The minimum salary for AI Engineer is $21,593.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Software Engineer?",
+        "response": "The average salary for AI Software Engineer is $151,169.40."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Software Engineer?",
+        "response": "The maximum salary for AI Software Engineer is $242,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Software Engineer?",
+        "response": "The minimum salary for AI Software Engineer is $106,200.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Scientist?",
+        "response": "The average salary for Machine Learning Scientist is $190,077.85."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Scientist?",
+        "response": "The maximum salary for Machine Learning Scientist is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Scientist?",
+        "response": "The minimum salary for Machine Learning Scientist is $22,800.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Engineer?",
+        "response": "The average salary for Data Science Engineer is $142,334.07."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Engineer?",
+        "response": "The maximum salary for Data Science Engineer is $266,450.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Engineer?",
+        "response": "The minimum salary for Data Science Engineer is $40,189.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Applied Scientist?",
+        "response": "The average salary for Applied Scientist is $190,034.39."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Applied Scientist?",
+        "response": "The maximum salary for Applied Scientist is $414,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Applied Scientist?",
+        "response": "The minimum salary for Applied Scientist is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Operations Engineer?",
+        "response": "The average salary for Machine Learning Operations Engineer is $136,527.78."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Operations Engineer?",
+        "response": "The maximum salary for Machine Learning Operations Engineer is $178,250.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Operations Engineer?",
+        "response": "The minimum salary for Machine Learning Operations Engineer is $60,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Analytics Engineer?",
+        "response": "The average salary for Analytics Engineer is $160,215.26."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Analytics Engineer?",
+        "response": "The maximum salary for Analytics Engineer is $750,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Analytics Engineer?",
+        "response": "The minimum salary for Analytics Engineer is $29,333.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Management Analyst?",
+        "response": "The average salary for Data Management Analyst is $92,538.09."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Management Analyst?",
+        "response": "The maximum salary for Data Management Analyst is $199,068.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Management Analyst?",
+        "response": "The minimum salary for Data Management Analyst is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Encounter Data Management Professional?",
+        "response": "The average salary for Encounter Data Management Professional is $72,812.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Encounter Data Management Professional?",
+        "response": "The maximum salary for Encounter Data Management Professional is $96,200.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Encounter Data Management Professional?",
+        "response": "The minimum salary for Encounter Data Management Professional is $47,700.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Specialist?",
+        "response": "The average salary for Data Analytics Specialist is $98,811.12."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Specialist?",
+        "response": "The maximum salary for Data Analytics Specialist is $157,144.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Specialist?",
+        "response": "The minimum salary for Data Analytics Specialist is $44,100.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Head of Data?",
+        "response": "The average salary for Head of Data is $211,860.20."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Head of Data?",
+        "response": "The maximum salary for Head of Data is $329,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Head of Data?",
+        "response": "The minimum salary for Head of Data is $31,520.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Lead?",
+        "response": "The average salary for Data Analytics Lead is $195,536.74."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Lead?",
+        "response": "The maximum salary for Data Analytics Lead is $405,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Lead?",
+        "response": "The minimum salary for Data Analytics Lead is $17,511.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Research Engineer?",
+        "response": "The average salary for Research Engineer is $190,177.98."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Research Engineer?",
+        "response": "The maximum salary for Research Engineer is $720,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Research Engineer?",
+        "response": "The minimum salary for Research Engineer is $16,455.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Scientist?",
+        "response": "The average salary for AI Scientist is $121,949.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Scientist?",
+        "response": "The maximum salary for AI Scientist is $417,937.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Scientist?",
+        "response": "The minimum salary for AI Scientist is $18,053.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Developer?",
+        "response": "The average salary for Business Intelligence Developer is $100,667.88."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Developer?",
+        "response": "The maximum salary for Business Intelligence Developer is $177,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Developer?",
+        "response": "The minimum salary for Business Intelligence Developer is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Developer?",
+        "response": "The average salary for Machine Learning Developer is $79,662.80."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Developer?",
+        "response": "The maximum salary for Machine Learning Developer is $180,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Developer?",
+        "response": "The minimum salary for Machine Learning Developer is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Management Specialist?",
+        "response": "The average salary for Data Management Specialist is $104,828.73."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Management Specialist?",
+        "response": "The maximum salary for Data Management Specialist is $200,400.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Management Specialist?",
+        "response": "The minimum salary for Data Management Specialist is $68,293.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Infrastructure Engineer?",
+        "response": "The average salary for Data Infrastructure Engineer is $204,192.05."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Infrastructure Engineer?",
+        "response": "The maximum salary for Data Infrastructure Engineer is $385,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Infrastructure Engineer?",
+        "response": "The minimum salary for Data Infrastructure Engineer is $135,920.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title BI Developer?",
+        "response": "The average salary for BI Developer is $105,512.30."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title BI Developer?",
+        "response": "The maximum salary for BI Developer is $204,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title BI Developer?",
+        "response": "The minimum salary for BI Developer is $21,600.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Admin & Data Analyst?",
+        "response": "The average salary for Admin & Data Analyst is $61,805.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Admin & Data Analyst?",
+        "response": "The maximum salary for Admin & Data Analyst is $95,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Admin & Data Analyst?",
+        "response": "The minimum salary for Admin & Data Analyst is $42,222.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Insight Analyst?",
+        "response": "The average salary for Insight Analyst is $50,090.64."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Insight Analyst?",
+        "response": "The maximum salary for Insight Analyst is $75,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Insight Analyst?",
+        "response": "The minimum salary for Insight Analyst is $30,760.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Consultant Data Engineer?",
+        "response": "The average salary for Consultant Data Engineer is $84,269.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Consultant Data Engineer?",
+        "response": "The maximum salary for Consultant Data Engineer is $118,539.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Consultant Data Engineer?",
+        "response": "The minimum salary for Consultant Data Engineer is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Manager?",
+        "response": "The average salary for Business Intelligence Manager is $137,102.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Manager?",
+        "response": "The maximum salary for Business Intelligence Manager is $263,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Manager?",
+        "response": "The minimum salary for Business Intelligence Manager is $82,500.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Manager Data Management?",
+        "response": "The average salary for Manager Data Management is $80,507.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Manager Data Management?",
+        "response": "The maximum salary for Manager Data Management is $125,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Manager Data Management?",
+        "response": "The minimum salary for Manager Data Management is $36,014.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Quality Manager?",
+        "response": "The average salary for Data Quality Manager is $82,852.83."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Quality Manager?",
+        "response": "The maximum salary for Data Quality Manager is $162,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Quality Manager?",
+        "response": "The minimum salary for Data Quality Manager is $44,444.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Manager?",
+        "response": "The average salary for Data Analytics Manager is $134,608.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Manager?",
+        "response": "The maximum salary for Data Analytics Manager is $254,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Manager?",
+        "response": "The minimum salary for Data Analytics Manager is $27,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Robotics Engineer?",
+        "response": "The average salary for Robotics Engineer is $140,416.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Robotics Engineer?",
+        "response": "The maximum salary for Robotics Engineer is $240,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Robotics Engineer?",
+        "response": "The minimum salary for Robotics Engineer is $65,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Specialist?",
+        "response": "The average salary for Business Intelligence Specialist is $132,261.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Specialist?",
+        "response": "The maximum salary for Business Intelligence Specialist is $259,900.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Specialist?",
+        "response": "The minimum salary for Business Intelligence Specialist is $68,274.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Operations Analyst?",
+        "response": "The average salary for Data Operations Analyst is $96,432.92."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Operations Analyst?",
+        "response": "The maximum salary for Data Operations Analyst is $168,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Operations Analyst?",
+        "response": "The minimum salary for Data Operations Analyst is $44,640.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Director of Business Intelligence?",
+        "response": "The average salary for Director of Business Intelligence is $187,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Director of Business Intelligence?",
+        "response": "The maximum salary for Director of Business Intelligence is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Director of Business Intelligence?",
+        "response": "The minimum salary for Director of Business Intelligence is $175,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Product Owner?",
+        "response": "The average salary for Data Product Owner is $127,292.75."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Product Owner?",
+        "response": "The maximum salary for Data Product Owner is $321,830.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Product Owner?",
+        "response": "The minimum salary for Data Product Owner is $55,926.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Operations Manager?",
+        "response": "The average salary for Data Operations Manager is $123,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Operations Manager?",
+        "response": "The maximum salary for Data Operations Manager is $143,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Operations Manager?",
+        "response": "The minimum salary for Data Operations Manager is $80,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Research Scientist?",
+        "response": "The average salary for AI Research Scientist is $101,296.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Research Scientist?",
+        "response": "The maximum salary for AI Research Scientist is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Research Scientist?",
+        "response": "The minimum salary for AI Research Scientist is $65,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Operations Specialist?",
+        "response": "The average salary for Data Operations Specialist is $91,403.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Operations Specialist?",
+        "response": "The maximum salary for Data Operations Specialist is $206,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Operations Specialist?",
+        "response": "The minimum salary for Data Operations Specialist is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Bear Robotics?",
+        "response": "The average salary for Bear Robotics is $167,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Bear Robotics?",
+        "response": "The maximum salary for Bear Robotics is $215,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Bear Robotics?",
+        "response": "The minimum salary for Bear Robotics is $120,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Consultant?",
+        "response": "The average salary for Data Science Consultant is $106,658.20."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Consultant?",
+        "response": "The maximum salary for Data Science Consultant is $189,750.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Consultant?",
+        "response": "The minimum salary for Data Science Consultant is $21,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Lead?",
+        "response": "The average salary for Data Lead is $159,940.31."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Lead?",
+        "response": "The maximum salary for Data Lead is $350,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Lead?",
+        "response": "The minimum salary for Data Lead is $38,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Operations Associate?",
+        "response": "The average salary for Data Operations Associate is $77,599.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Operations Associate?",
+        "response": "The maximum salary for Data Operations Associate is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Operations Associate?",
+        "response": "The minimum salary for Data Operations Associate is $51,375.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Architect?",
+        "response": "The average salary for AI Architect is $252,551.24."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Architect?",
+        "response": "The maximum salary for AI Architect is $800,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Architect?",
+        "response": "The minimum salary for AI Architect is $99,750.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Lead Data Scientist?",
+        "response": "The average salary for Lead Data Scientist is $105,139.55."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Lead Data Scientist?",
+        "response": "The maximum salary for Lead Data Scientist is $192,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Lead Data Scientist?",
+        "response": "The minimum salary for Lead Data Scientist is $29,944.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title MLOps Engineer?",
+        "response": "The average salary for MLOps Engineer is $146,846.43."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title MLOps Engineer?",
+        "response": "The maximum salary for MLOps Engineer is $280,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title MLOps Engineer?",
+        "response": "The minimum salary for MLOps Engineer is $27,568.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title BI Analyst?",
+        "response": "The average salary for BI Analyst is $118,243.75."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title BI Analyst?",
+        "response": "The maximum salary for BI Analyst is $234,485.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title BI Analyst?",
+        "response": "The minimum salary for BI Analyst is $18,381.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Applied Research Scientist?",
+        "response": "The average salary for Applied Research Scientist is $66,666.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Applied Research Scientist?",
+        "response": "The maximum salary for Applied Research Scientist is $66,666.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Applied Research Scientist?",
+        "response": "The minimum salary for Applied Research Scientist is $66,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Prompt Engineer?",
+        "response": "The average salary for Prompt Engineer is $205,093.59."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Prompt Engineer?",
+        "response": "The maximum salary for Prompt Engineer is $600,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Prompt Engineer?",
+        "response": "The minimum salary for Prompt Engineer is $60,462.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Integration Engineer?",
+        "response": "The average salary for Data Integration Engineer is $121,272.40."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Integration Engineer?",
+        "response": "The maximum salary for Data Integration Engineer is $161,250.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Integration Engineer?",
+        "response": "The minimum salary for Data Integration Engineer is $70,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Infrastructure Engineer?",
+        "response": "The average salary for Machine Learning Infrastructure Engineer is $167,395.27."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Infrastructure Engineer?",
+        "response": "The maximum salary for Machine Learning Infrastructure Engineer is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Infrastructure Engineer?",
+        "response": "The minimum salary for Machine Learning Infrastructure Engineer is $50,180.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Developer?",
+        "response": "The average salary for Data Developer is $97,747.63."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Developer?",
+        "response": "The maximum salary for Data Developer is $180,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Developer?",
+        "response": "The minimum salary for Data Developer is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title CRM Data Analyst?",
+        "response": "The average salary for CRM Data Analyst is $40,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title CRM Data Analyst?",
+        "response": "The maximum salary for CRM Data Analyst is $40,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title CRM Data Analyst?",
+        "response": "The minimum salary for CRM Data Analyst is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title ETL Developer?",
+        "response": "The average salary for ETL Developer is $122,251.29."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title ETL Developer?",
+        "response": "The maximum salary for ETL Developer is $250,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title ETL Developer?",
+        "response": "The minimum salary for ETL Developer is $52,533.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Cloud Database Engineer?",
+        "response": "The average salary for Cloud Database Engineer is $143,538.46."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Cloud Database Engineer?",
+        "response": "The maximum salary for Cloud Database Engineer is $190,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Cloud Database Engineer?",
+        "response": "The minimum salary for Cloud Database Engineer is $82,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Analyst?",
+        "response": "The average salary for Data Science Analyst is $101,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Analyst?",
+        "response": "The maximum salary for Data Science Analyst is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Analyst?",
+        "response": "The minimum salary for Data Science Analyst is $64,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Practitioner?",
+        "response": "The average salary for Data Science Practitioner is $133,650.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Practitioner?",
+        "response": "The maximum salary for Data Science Practitioner is $198,800.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Practitioner?",
+        "response": "The minimum salary for Data Science Practitioner is $68,400.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title BI Data Analyst?",
+        "response": "The average salary for BI Data Analyst is $67,900.89."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title BI Data Analyst?",
+        "response": "The maximum salary for BI Data Analyst is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title BI Data Analyst?",
+        "response": "The minimum salary for BI Data Analyst is $25,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Applied Data Scientist?",
+        "response": "The average salary for Applied Data Scientist is $97,004.23."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Applied Data Scientist?",
+        "response": "The maximum salary for Applied Data Scientist is $380,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Applied Data Scientist?",
+        "response": "The minimum salary for Applied Data Scientist is $20,673.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Quality Engineer?",
+        "response": "The average salary for Data Quality Engineer is $100,350.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Quality Engineer?",
+        "response": "The maximum salary for Data Quality Engineer is $190,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Quality Engineer?",
+        "response": "The minimum salary for Data Quality Engineer is $23,753.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Computational Biologist?",
+        "response": "The average salary for Computational Biologist is $190,384.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Computational Biologist?",
+        "response": "The maximum salary for Computational Biologist is $236,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Computational Biologist?",
+        "response": "The minimum salary for Computational Biologist is $165,384.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Big Data Engineer?",
+        "response": "The average salary for Big Data Engineer is $66,251.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Big Data Engineer?",
+        "response": "The maximum salary for Big Data Engineer is $161,311.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Big Data Engineer?",
+        "response": "The minimum salary for Big Data Engineer is $16,228.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Associate?",
+        "response": "The average salary for Data Analytics Associate is $91,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Associate?",
+        "response": "The maximum salary for Data Analytics Associate is $91,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Associate?",
+        "response": "The minimum salary for Data Analytics Associate is $91,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Reporting Analyst?",
+        "response": "The average salary for Data Reporting Analyst is $70,250.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Reporting Analyst?",
+        "response": "The maximum salary for Data Reporting Analyst is $90,300.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Reporting Analyst?",
+        "response": "The minimum salary for Data Reporting Analyst is $50,200.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Management Consultant?",
+        "response": "The average salary for Data Management Consultant is $92,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Management Consultant?",
+        "response": "The maximum salary for Data Management Consultant is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Management Consultant?",
+        "response": "The minimum salary for Data Management Consultant is $85,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Quality Analyst?",
+        "response": "The average salary for Data Quality Analyst is $83,502.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Quality Analyst?",
+        "response": "The maximum salary for Data Quality Analyst is $172,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Quality Analyst?",
+        "response": "The minimum salary for Data Quality Analyst is $36,912.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Robotics Software Engineer?",
+        "response": "The average salary for Robotics Software Engineer is $196,625.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Robotics Software Engineer?",
+        "response": "The maximum salary for Robotics Software Engineer is $282,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Robotics Software Engineer?",
+        "response": "The minimum salary for Robotics Software Engineer is $138,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Researcher?",
+        "response": "The average salary for Machine Learning Researcher is $149,644.57."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Researcher?",
+        "response": "The maximum salary for Machine Learning Researcher is $250,800.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Researcher?",
+        "response": "The minimum salary for Machine Learning Researcher is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data DevOps Engineer?",
+        "response": "The average salary for Data DevOps Engineer is $65,638.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data DevOps Engineer?",
+        "response": "The maximum salary for Data DevOps Engineer is $95,012.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data DevOps Engineer?",
+        "response": "The minimum salary for Data DevOps Engineer is $47,918.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Director?",
+        "response": "The average salary for Data Science Director is $177,416.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Director?",
+        "response": "The maximum salary for Data Science Director is $212,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Director?",
+        "response": "The minimum salary for Data Science Director is $106,666.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Strategist?",
+        "response": "The average salary for Data Strategist is $102,400.42."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Strategist?",
+        "response": "The maximum salary for Data Strategist is $242,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Strategist?",
+        "response": "The minimum salary for Data Strategist is $65,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Big Data Developer?",
+        "response": "The average salary for Big Data Developer is $117,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Big Data Developer?",
+        "response": "The maximum salary for Big Data Developer is $117,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Big Data Developer?",
+        "response": "The minimum salary for Big Data Developer is $117,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Quantitative Research Analyst?",
+        "response": "The average salary for Quantitative Research Analyst is $51,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Quantitative Research Analyst?",
+        "response": "The maximum salary for Quantitative Research Analyst is $51,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Quantitative Research Analyst?",
+        "response": "The minimum salary for Quantitative Research Analyst is $51,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Lead Machine Learning Engineer?",
+        "response": "The average salary for Lead Machine Learning Engineer is $88,312.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Lead Machine Learning Engineer?",
+        "response": "The maximum salary for Lead Machine Learning Engineer is $115,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Lead Machine Learning Engineer?",
+        "response": "The minimum salary for Lead Machine Learning Engineer is $69,344.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Research Engineer?",
+        "response": "The average salary for Machine Learning Research Engineer is $66,157.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Research Engineer?",
+        "response": "The maximum salary for Machine Learning Research Engineer is $90,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Research Engineer?",
+        "response": "The minimum salary for Machine Learning Research Engineer is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Consultant?",
+        "response": "The average salary for Data Analytics Consultant is $86,690.62."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Consultant?",
+        "response": "The maximum salary for Data Analytics Consultant is $123,900.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Consultant?",
+        "response": "The minimum salary for Data Analytics Consultant is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Research Engineer?",
+        "response": "The average salary for AI Research Engineer is $82,963.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Research Engineer?",
+        "response": "The maximum salary for AI Research Engineer is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Research Engineer?",
+        "response": "The minimum salary for AI Research Engineer is $24,322.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Programmer?",
+        "response": "The average salary for AI Programmer is $62,042.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Programmer?",
+        "response": "The maximum salary for AI Programmer is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Programmer?",
+        "response": "The minimum salary for AI Programmer is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title ETL Engineer?",
+        "response": "The average salary for ETL Engineer is $98,190.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title ETL Engineer?",
+        "response": "The maximum salary for ETL Engineer is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title ETL Engineer?",
+        "response": "The minimum salary for ETL Engineer is $58,444.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Product Manager?",
+        "response": "The average salary for AI Product Manager is $141,766.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Product Manager?",
+        "response": "The maximum salary for AI Product Manager is $212,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Product Manager?",
+        "response": "The minimum salary for AI Product Manager is $93,300.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AI Developer?",
+        "response": "The average salary for AI Developer is $135,466.79."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AI Developer?",
+        "response": "The maximum salary for AI Developer is $275,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AI Developer?",
+        "response": "The minimum salary for AI Developer is $33,333.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Computer Vision Engineer?",
+        "response": "The average salary for Computer Vision Engineer is $172,677.06."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Computer Vision Engineer?",
+        "response": "The maximum salary for Computer Vision Engineer is $351,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Computer Vision Engineer?",
+        "response": "The minimum salary for Computer Vision Engineer is $15,897.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Head of Machine Learning?",
+        "response": "The average salary for Head of Machine Learning is $299,758.43."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Head of Machine Learning?",
+        "response": "The maximum salary for Head of Machine Learning is $448,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Head of Machine Learning?",
+        "response": "The minimum salary for Head of Machine Learning is $76,309.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analyst Lead?",
+        "response": "The average salary for Data Analyst Lead is $71,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analyst Lead?",
+        "response": "The maximum salary for Data Analyst Lead is $125,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analyst Lead?",
+        "response": "The minimum salary for Data Analyst Lead is $18,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Integration Developer?",
+        "response": "The average salary for Data Integration Developer is $140,580.75."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Integration Developer?",
+        "response": "The maximum salary for Data Integration Developer is $180,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Integration Developer?",
+        "response": "The minimum salary for Data Integration Developer is $105,267.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title ML Ops Engineer?",
+        "response": "The average salary for ML Ops Engineer is $156,400.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title ML Ops Engineer?",
+        "response": "The maximum salary for ML Ops Engineer is $198,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title ML Ops Engineer?",
+        "response": "The minimum salary for ML Ops Engineer is $114,800.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Pipeline Engineer?",
+        "response": "The average salary for Data Pipeline Engineer is $172,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Pipeline Engineer?",
+        "response": "The maximum salary for Data Pipeline Engineer is $175,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Pipeline Engineer?",
+        "response": "The minimum salary for Data Pipeline Engineer is $170,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Lead Data Analyst?",
+        "response": "The average salary for Lead Data Analyst is $67,077.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Lead Data Analyst?",
+        "response": "The maximum salary for Lead Data Analyst is $170,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Lead Data Analyst?",
+        "response": "The minimum salary for Lead Data Analyst is $18,241.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Lead?",
+        "response": "The average salary for Data Science Lead is $167,585.96."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Lead?",
+        "response": "The maximum salary for Data Science Lead is $272,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Lead?",
+        "response": "The minimum salary for Data Science Lead is $61,520.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Director of Data Science?",
+        "response": "The average salary for Director of Data Science is $218,775.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Director of Data Science?",
+        "response": "The maximum salary for Director of Data Science is $375,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Director of Data Science?",
+        "response": "The minimum salary for Director of Data Science is $57,786.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Managing Director Data Science?",
+        "response": "The average salary for Managing Director Data Science is $280,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Managing Director Data Science?",
+        "response": "The maximum salary for Managing Director Data Science is $300,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Managing Director Data Science?",
+        "response": "The minimum salary for Managing Director Data Science is $260,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Data Analyst?",
+        "response": "The average salary for Business Data Analyst is $73,567.76."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Data Analyst?",
+        "response": "The maximum salary for Business Data Analyst is $180,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Data Analyst?",
+        "response": "The minimum salary for Business Data Analyst is $17,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title NLP Engineer?",
+        "response": "The average salary for NLP Engineer is $130,002.27."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title NLP Engineer?",
+        "response": "The maximum salary for NLP Engineer is $275,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title NLP Engineer?",
+        "response": "The minimum salary for NLP Engineer is $32,834.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Marketing Data Scientist?",
+        "response": "The average salary for Marketing Data Scientist is $90,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Marketing Data Scientist?",
+        "response": "The maximum salary for Marketing Data Scientist is $90,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Marketing Data Scientist?",
+        "response": "The minimum salary for Marketing Data Scientist is $90,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Deep Learning Engineer?",
+        "response": "The average salary for Deep Learning Engineer is $190,807.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Deep Learning Engineer?",
+        "response": "The maximum salary for Deep Learning Engineer is $331,640.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Deep Learning Engineer?",
+        "response": "The minimum salary for Deep Learning Engineer is $49,253.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Modeler?",
+        "response": "The average salary for Machine Learning Modeler is $173,350.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Modeler?",
+        "response": "The maximum salary for Machine Learning Modeler is $204,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Modeler?",
+        "response": "The minimum salary for Machine Learning Modeler is $142,200.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Decision Scientist?",
+        "response": "The average salary for Decision Scientist is $166,094.63."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Decision Scientist?",
+        "response": "The maximum salary for Decision Scientist is $204,500.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Decision Scientist?",
+        "response": "The minimum salary for Decision Scientist is $123,040.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Financial Data Analyst?",
+        "response": "The average salary for Financial Data Analyst is $90,375.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Financial Data Analyst?",
+        "response": "The maximum salary for Financial Data Analyst is $130,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Financial Data Analyst?",
+        "response": "The minimum salary for Financial Data Analyst is $56,500.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Strategy Manager?",
+        "response": "The average salary for Data Strategy Manager is $138,750.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Strategy Manager?",
+        "response": "The maximum salary for Data Strategy Manager is $250,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Strategy Manager?",
+        "response": "The minimum salary for Data Strategy Manager is $90,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Visualization Engineer?",
+        "response": "The average salary for Data Visualization Engineer is $122,975.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Visualization Engineer?",
+        "response": "The maximum salary for Data Visualization Engineer is $170,200.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Visualization Engineer?",
+        "response": "The minimum salary for Data Visualization Engineer is $83,900.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Azure Data Engineer?",
+        "response": "The average salary for Azure Data Engineer is $100,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Azure Data Engineer?",
+        "response": "The maximum salary for Azure Data Engineer is $100,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Azure Data Engineer?",
+        "response": "The minimum salary for Azure Data Engineer is $100,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Principal Data Scientist?",
+        "response": "The average salary for Principal Data Scientist is $194,089.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Principal Data Scientist?",
+        "response": "The maximum salary for Principal Data Scientist is $416,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Principal Data Scientist?",
+        "response": "The minimum salary for Principal Data Scientist is $86,374.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Staff Data Analyst?",
+        "response": "The average salary for Staff Data Analyst is $79,917.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Staff Data Analyst?",
+        "response": "The maximum salary for Staff Data Analyst is $179,998.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Staff Data Analyst?",
+        "response": "The minimum salary for Staff Data Analyst is $15,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Software Engineer?",
+        "response": "The average salary for Machine Learning Software Engineer is $188,440.27."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Software Engineer?",
+        "response": "The maximum salary for Machine Learning Software Engineer is $375,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Software Engineer?",
+        "response": "The minimum salary for Machine Learning Software Engineer is $24,322.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Applied Machine Learning Scientist?",
+        "response": "The average salary for Applied Machine Learning Scientist is $104,289.57."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Applied Machine Learning Scientist?",
+        "response": "The maximum salary for Applied Machine Learning Scientist is $423,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Applied Machine Learning Scientist?",
+        "response": "The minimum salary for Applied Machine Learning Scientist is $30,469.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Operations Engineer?",
+        "response": "The average salary for Data Operations Engineer is $133,431.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Operations Engineer?",
+        "response": "The maximum salary for Data Operations Engineer is $289,120.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Operations Engineer?",
+        "response": "The minimum salary for Data Operations Engineer is $60,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Manager?",
+        "response": "The average salary for Machine Learning Manager is $149,166.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Manager?",
+        "response": "The maximum salary for Machine Learning Manager is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Manager?",
+        "response": "The minimum salary for Machine Learning Manager is $117,104.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Principal Machine Learning Engineer?",
+        "response": "The average salary for Principal Machine Learning Engineer is $129,430.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Principal Machine Learning Engineer?",
+        "response": "The maximum salary for Principal Machine Learning Engineer is $190,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Principal Machine Learning Engineer?",
+        "response": "The minimum salary for Principal Machine Learning Engineer is $38,290.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Principal Data Engineer?",
+        "response": "The average salary for Principal Data Engineer is $158,924.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Principal Data Engineer?",
+        "response": "The maximum salary for Principal Data Engineer is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Principal Data Engineer?",
+        "response": "The minimum salary for Principal Data Engineer is $91,773.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Power BI Developer?",
+        "response": "The average salary for Power BI Developer is $64,781.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Power BI Developer?",
+        "response": "The maximum salary for Power BI Developer is $64,781.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Power BI Developer?",
+        "response": "The minimum salary for Power BI Developer is $64,781.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Head of Data Science?",
+        "response": "The average salary for Head of Data Science is $178,387.25."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Head of Data Science?",
+        "response": "The maximum salary for Head of Data Science is $330,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Head of Data Science?",
+        "response": "The minimum salary for Head of Data Science is $60,805.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Staff Machine Learning Engineer?",
+        "response": "The average salary for Staff Machine Learning Engineer is $185,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Staff Machine Learning Engineer?",
+        "response": "The maximum salary for Staff Machine Learning Engineer is $185,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Staff Machine Learning Engineer?",
+        "response": "The minimum salary for Staff Machine Learning Engineer is $185,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Staff Data Scientist?",
+        "response": "The average salary for Staff Data Scientist is $134,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Staff Data Scientist?",
+        "response": "The maximum salary for Staff Data Scientist is $164,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Staff Data Scientist?",
+        "response": "The minimum salary for Staff Data Scientist is $105,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Machine Learning Specialist?",
+        "response": "The average salary for Machine Learning Specialist is $55,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Machine Learning Specialist?",
+        "response": "The maximum salary for Machine Learning Specialist is $70,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Machine Learning Specialist?",
+        "response": "The minimum salary for Machine Learning Specialist is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Business Intelligence Data Analyst?",
+        "response": "The average salary for Business Intelligence Data Analyst is $83,209.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Business Intelligence Data Analyst?",
+        "response": "The maximum salary for Business Intelligence Data Analyst is $99,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Business Intelligence Data Analyst?",
+        "response": "The minimum salary for Business Intelligence Data Analyst is $67,419.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Modeller?",
+        "response": "The average salary for Data Modeller is $83,052.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Modeller?",
+        "response": "The maximum salary for Data Modeller is $110,736.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Modeller?",
+        "response": "The minimum salary for Data Modeller is $55,368.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Finance Data Analyst?",
+        "response": "The average salary for Finance Data Analyst is $141,933.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Finance Data Analyst?",
+        "response": "The maximum salary for Finance Data Analyst is $323,905.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Finance Data Analyst?",
+        "response": "The minimum salary for Finance Data Analyst is $40,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Software Data Engineer?",
+        "response": "The average salary for Software Data Engineer is $111,627.67."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Software Data Engineer?",
+        "response": "The maximum salary for Software Data Engineer is $210,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Software Data Engineer?",
+        "response": "The minimum salary for Software Data Engineer is $50,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Compliance Data Analyst?",
+        "response": "The average salary for Compliance Data Analyst is $45,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Compliance Data Analyst?",
+        "response": "The maximum salary for Compliance Data Analyst is $60,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Compliance Data Analyst?",
+        "response": "The minimum salary for Compliance Data Analyst is $30,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Cloud Data Engineer?",
+        "response": "The average salary for Cloud Data Engineer is $131,617.75."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Cloud Data Engineer?",
+        "response": "The maximum salary for Cloud Data Engineer is $177,177.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Cloud Data Engineer?",
+        "response": "The minimum salary for Cloud Data Engineer is $89,294.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Analytics Engineering Manager?",
+        "response": "The average salary for Analytics Engineering Manager is $399,880.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Analytics Engineering Manager?",
+        "response": "The maximum salary for Analytics Engineering Manager is $399,880.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Analytics Engineering Manager?",
+        "response": "The minimum salary for Analytics Engineering Manager is $399,880.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title AWS Data Architect?",
+        "response": "The average salary for AWS Data Architect is $258,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title AWS Data Architect?",
+        "response": "The maximum salary for AWS Data Architect is $258,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title AWS Data Architect?",
+        "response": "The minimum salary for AWS Data Architect is $258,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Product Data Analyst?",
+        "response": "The average salary for Product Data Analyst is $69,436.17."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Product Data Analyst?",
+        "response": "The maximum salary for Product Data Analyst is $140,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Product Data Analyst?",
+        "response": "The minimum salary for Product Data Analyst is $16,417.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Visualization Analyst?",
+        "response": "The average salary for Data Visualization Analyst is $120,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Visualization Analyst?",
+        "response": "The maximum salary for Data Visualization Analyst is $130,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Visualization Analyst?",
+        "response": "The minimum salary for Data Visualization Analyst is $110,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Autonomous Vehicle Technician?",
+        "response": "The average salary for Autonomous Vehicle Technician is $82,777.50."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Autonomous Vehicle Technician?",
+        "response": "The maximum salary for Autonomous Vehicle Technician is $120,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Autonomous Vehicle Technician?",
+        "response": "The minimum salary for Autonomous Vehicle Technician is $45,555.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Sales Data Analyst?",
+        "response": "The average salary for Sales Data Analyst is $60,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Sales Data Analyst?",
+        "response": "The maximum salary for Sales Data Analyst is $60,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Sales Data Analyst?",
+        "response": "The minimum salary for Sales Data Analyst is $60,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Applied Machine Learning Engineer?",
+        "response": "The average salary for Applied Machine Learning Engineer is $141,726.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Applied Machine Learning Engineer?",
+        "response": "The maximum salary for Applied Machine Learning Engineer is $225,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Applied Machine Learning Engineer?",
+        "response": "The minimum salary for Applied Machine Learning Engineer is $70,179.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title BI Data Engineer?",
+        "response": "The average salary for BI Data Engineer is $60,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title BI Data Engineer?",
+        "response": "The maximum salary for BI Data Engineer is $60,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title BI Data Engineer?",
+        "response": "The minimum salary for BI Data Engineer is $60,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Deep Learning Researcher?",
+        "response": "The average salary for Deep Learning Researcher is $124,163.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Deep Learning Researcher?",
+        "response": "The maximum salary for Deep Learning Researcher is $124,163.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Deep Learning Researcher?",
+        "response": "The minimum salary for Deep Learning Researcher is $124,163.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Big Data Architect?",
+        "response": "The average salary for Big Data Architect is $126,751.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Big Data Architect?",
+        "response": "The maximum salary for Big Data Architect is $153,799.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Big Data Architect?",
+        "response": "The minimum salary for Big Data Architect is $99,703.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Computer Vision Software Engineer?",
+        "response": "The average salary for Computer Vision Software Engineer is $77,760.60."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Computer Vision Software Engineer?",
+        "response": "The maximum salary for Computer Vision Software Engineer is $150,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Computer Vision Software Engineer?",
+        "response": "The minimum salary for Computer Vision Software Engineer is $19,073.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Marketing Data Engineer?",
+        "response": "The average salary for Marketing Data Engineer is $66,970.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Marketing Data Engineer?",
+        "response": "The maximum salary for Marketing Data Engineer is $66,970.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Marketing Data Engineer?",
+        "response": "The minimum salary for Marketing Data Engineer is $66,970.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Science Tech Lead?",
+        "response": "The average salary for Data Science Tech Lead is $375,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Science Tech Lead?",
+        "response": "The maximum salary for Data Science Tech Lead is $375,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Science Tech Lead?",
+        "response": "The minimum salary for Data Science Tech Lead is $375,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Scientist Lead?",
+        "response": "The average salary for Data Scientist Lead is $136,153.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Scientist Lead?",
+        "response": "The maximum salary for Data Scientist Lead is $183,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Scientist Lead?",
+        "response": "The minimum salary for Data Scientist Lead is $89,306.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Marketing Data Analyst?",
+        "response": "The average salary for Marketing Data Analyst is $144,327.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Marketing Data Analyst?",
+        "response": "The maximum salary for Marketing Data Analyst is $200,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Marketing Data Analyst?",
+        "response": "The minimum salary for Marketing Data Analyst is $88,654.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Principal Data Architect?",
+        "response": "The average salary for Principal Data Architect is $38,154.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Principal Data Architect?",
+        "response": "The maximum salary for Principal Data Architect is $38,154.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Principal Data Architect?",
+        "response": "The minimum salary for Principal Data Architect is $38,154.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Data Analytics Engineer?",
+        "response": "The average salary for Data Analytics Engineer is $78,839.40."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Data Analytics Engineer?",
+        "response": "The maximum salary for Data Analytics Engineer is $135,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Data Analytics Engineer?",
+        "response": "The minimum salary for Data Analytics Engineer is $20,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Cloud Data Architect?",
+        "response": "The average salary for Cloud Data Architect is $250,000.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Cloud Data Architect?",
+        "response": "The maximum salary for Cloud Data Architect is $250,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Cloud Data Architect?",
+        "response": "The minimum salary for Cloud Data Architect is $250,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Lead Data Engineer?",
+        "response": "The average salary for Lead Data Engineer is $139,230.33."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Lead Data Engineer?",
+        "response": "The maximum salary for Lead Data Engineer is $276,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Lead Data Engineer?",
+        "response": "The minimum salary for Lead Data Engineer is $56,000.00."
+    },
+    {
+        "prompt": "What is the average salary for the job_title Principal Data Analyst?",
+        "response": "The average salary for Principal Data Analyst is $122,500.00."
+    },
+    {
+        "prompt": "What is the maximum salary for the job_title Principal Data Analyst?",
+        "response": "The maximum salary for Principal Data Analyst is $170,000.00."
+    },
+    {
+        "prompt": "What is the minimum salary for the job_title Principal Data Analyst?",
+        "response": "The minimum salary for Principal Data Analyst is $75,000.00."
+    }
+]

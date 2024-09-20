@@ -1,0 +1,42 @@
+.main-table-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #f4f4f4;
+  }
+  
+  .main-table-linegraph-row {
+    display: flex;
+    width: 100%;
+    overflow: hidden; 
+    background-color: #f5faff;
+    margin-bottom: 3%;
+  }
+  
+  .main-table-container {
+    flex: 2;
+    padding: 10px;
+    overflow: hidden;
+  }
+  
+  .line-graph-container {
+    flex: 1; 
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .job-titles-table-container {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box; 
+    overflow: hidden; 
+    background-color: #f5faff;
+  }
+  
+  .job-titles-table-container .ant-table {
+    width: 100%;
+    overflow-x: hidden; 
+  }
+  

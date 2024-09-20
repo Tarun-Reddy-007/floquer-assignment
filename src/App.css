@@ -1,0 +1,18 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.left-container {
+  width: 70%;
+  padding: 20px;
+  background-color: #f0f2f5; 
+}
+
+.right-container {
+  width: 30%;
+  padding: 20px;
+  background-color: #fff; 
+  border-left: 1px solid #ddd;
+}
+
